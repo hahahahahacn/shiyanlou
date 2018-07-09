@@ -1,4 +1,4 @@
-msg='hello python！！'
-
-print(msg)
+print('hello')
+print('haha')
+print()
 
