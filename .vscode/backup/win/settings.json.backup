@@ -1,6 +1,10 @@
 //工作区设置备份
 {
+    //linux设置
+    //"python.pythonPath": "/usr/bin/python3",
+    //windows设置
     "python.pythonPath": "D:\\CodeEditer\\Python37\\python.exe",
+    //以下设置通用    
     "python.linting.flake8Enabled": false,
     "python.linting.pep8Enabled": false,
     "python.linting.pylintEnabled": true,
@@ -9,11 +13,13 @@
 
 //用户设置备份
 {
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
+    //用户设置通用
+    "explorer.confirmDelete": false,
     "editor.renderWhitespace": "all",
     "python.autoComplete.addBrackets": true,
-    "python.formatting.provider": "yapf",
     "git.enableSmartCommit": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "yapf",
     "git.confirmSync": false
 }

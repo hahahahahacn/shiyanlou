@@ -1,6 +1,9 @@
 {
-    "python.pythonPath": "/usr/bin/python3",
-    //"python.pythonPath": "D:\\CodeEditer\\Python37\\python.exe",
+    //linux设置
+    //"python.pythonPath": "/usr/bin/python3",
+    //windows设置
+    "python.pythonPath": "D:\\CodeEditer\\Python37\\python.exe",
+    //以下设置通用    
     "python.linting.flake8Enabled": false,
     "python.linting.pep8Enabled": false,
     "python.linting.pylintEnabled": true,

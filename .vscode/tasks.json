@@ -6,8 +6,7 @@
         {
             "label": "myPython",
             "type": "shell",
-            //"command": "D:/CodeEditer/Python37/python.exe",
-            "command": "/usr/bin/python3.6"
+            "command": "D:/CodeEditer/Python37/python.exe",
             "args": [
                 "${file}"
             ],
