@@ -1,0 +1,754 @@
+{
+	"folder_history":
+	[
+		"/D/shiyanlou"
+	],
+	"last_version": 3176,
+	"last_window_id": 36,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 566.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print（）"
+					],
+					[
+						"my",
+						"myname"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 234.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/shiyanlou/.git/config",
+				"/D/shiyanlou/.vscode/settings.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Code/User/settings.json",
+				"/D/shiyanlou/.vscode/tasks.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.706/settings.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.549/tasks.json",
+				"/D/shiyanlou/python/1.py",
+				"/D/shiyanlou/python/testPy.py",
+				"/D/shiyanlou/python/test2.py",
+				"/D/CodeEditer/Python37/Scripts/autopep8-script.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/待办事宜清单.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/Context.sublime-menu",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/D/shiyanlou/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/pyyaml/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/mdpopups/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/shiyanlou/file4",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/Python/ex14.py",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/邳州网上招聘账号.txt",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/华为Mate10.txt",
+				"/D/fq/fanqiang/gae/proxy.py",
+				"/D/fq/fanqiang/ipfs-qanqiang.md",
+				"/D/fq/fanqiang/DonateAppid.md",
+				"/E/我的坚果云/software/远程、终端、term/VNC-Viewer 5.2.3——远程桌面连接工具/LinuxMintVNC4Server.vnc",
+				"/E/我的坚果云/software/远程、终端、term/VNC-Viewer 5.2.3——远程桌面连接工具/CentOS.vnc",
+				"/D/Program Files/MobaXterm_Portable/CygUtils.plugin",
+				"/D/Program Files/MobaXterm_Portable/MobaXterm.ini",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Mxt106/var/log/xwin/Mxt106/RemoteFiles/134618_4_0/config",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/known_hosts",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/id_rsa.pub",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/id_rsa",
+				"/D/shiyanlou/file1",
+				"/D/Program Files/同花顺/system/同花顺方案/tableheader/10450.ini",
+				"/F/360Downloads/PIC/DDY高叉舍宾亮丝第18期霸道女总裁若兮套图/.picasa.ini",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Google/Picasa2/Desktop/.picasa.ini",
+				"/C/Users/Administrator.USER-20180321EI/nuuid.ini",
+				"/C/Users/Administrator.USER-20180321EI/ntuser.dat.LOG1",
+				"/C/Users/Administrator.USER-20180321EI/.viminfo",
+				"/C/Users/Administrator.USER-20180321EI/inst.ini",
+				"/C/Users/Administrator.USER-20180321EI/ntuser.ini",
+				"/C/Users/Administrator.USER-20180321EI/.gitconfig",
+				"/D/shiyanlou/测试文件夹/file5",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/赛后总结.md",
+				"/D/testGit/.git/hooks/commit-msg.sample",
+				"/D/testGit/.git/hooks/applypatch-msg.sample",
+				"/D/testGit/.git/config",
+				"/D/testGit/.git/HEAD",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/D/Program Files (x86)/PureVPN/purevpn.exe.config",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/Graphviz/test.dot",
+				"/C/Windows/winsxs/amd64_microsoft-windows-w..nfrastructure-other_31bf3856ad364e35_6.1.7600.16385_none_6079f415110c0210/hosts",
+				"/D/test.dot",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/test.md",
+				"/D/G.dot",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/test.py",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test (1).dot",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.gv",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.dot",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/GraphvizPreview.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.377/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/LICENSE.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/helpers.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Graphvizer.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/dot.sublime-build",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/graph1.gv",
+				"/c/users/admini~1.use/appdata/local/temp/graphvizer.png",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Graphvizer.sublime-settings",
+				"/D/G.gv",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Sublime Text 3/Cache/Graphviz/DOT.sublime-syntax.rcache",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Installed Packages/GraphvizPreview.sublime-package",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/graphvizer.dot",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.md",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/QQ截图20180608084625.png",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/甲方 .txt",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/沙发.txt",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Localization.sublime-settings"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"python"
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 132.0
+			},
+			"output.exec":
+			{
+				"height": 252.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.graphvizer_panel":
+			{
+				"height": 132.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 229.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1065.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"print（）"
+					],
+					[
+						"my",
+						"myname"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 234.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/shiyanlou",
+				"/D/shiyanlou/python"
+			],
+			"file_history":
+			[
+				"/D/shiyanlou/python/hello.py",
+				"/D/shiyanlou/.git/config",
+				"/D/shiyanlou/.vscode/settings.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Code/User/settings.json",
+				"/D/shiyanlou/.vscode/tasks.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.706/settings.json",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.549/tasks.json",
+				"/D/shiyanlou/python/1.py",
+				"/D/shiyanlou/python/testPy.py",
+				"/D/shiyanlou/python/test2.py",
+				"/D/CodeEditer/Python37/Scripts/autopep8-script.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/待办事宜清单.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/Context.sublime-menu",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/D/shiyanlou/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/pyyaml/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/mdpopups/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/shiyanlou/file4",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/Python/ex14.py",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/邳州网上招聘账号.txt",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/华为Mate10.txt",
+				"/D/fq/fanqiang/gae/proxy.py",
+				"/D/fq/fanqiang/ipfs-qanqiang.md",
+				"/D/fq/fanqiang/DonateAppid.md",
+				"/E/我的坚果云/software/远程、终端、term/VNC-Viewer 5.2.3——远程桌面连接工具/LinuxMintVNC4Server.vnc",
+				"/E/我的坚果云/software/远程、终端、term/VNC-Viewer 5.2.3——远程桌面连接工具/CentOS.vnc",
+				"/D/Program Files/MobaXterm_Portable/CygUtils.plugin",
+				"/D/Program Files/MobaXterm_Portable/MobaXterm.ini",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Mxt106/var/log/xwin/Mxt106/RemoteFiles/134618_4_0/config",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/known_hosts",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/id_rsa.pub",
+				"/C/Users/Administrator.USER-20180321EI/.ssh/id_rsa",
+				"/D/shiyanlou/file1",
+				"/D/Program Files/同花顺/system/同花顺方案/tableheader/10450.ini",
+				"/F/360Downloads/PIC/DDY高叉舍宾亮丝第18期霸道女总裁若兮套图/.picasa.ini",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Google/Picasa2/Desktop/.picasa.ini",
+				"/C/Users/Administrator.USER-20180321EI/nuuid.ini",
+				"/C/Users/Administrator.USER-20180321EI/ntuser.dat.LOG1",
+				"/C/Users/Administrator.USER-20180321EI/.viminfo",
+				"/C/Users/Administrator.USER-20180321EI/inst.ini",
+				"/C/Users/Administrator.USER-20180321EI/ntuser.ini",
+				"/C/Users/Administrator.USER-20180321EI/.gitconfig",
+				"/D/shiyanlou/测试文件夹/file5",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/赛后总结.md",
+				"/D/testGit/.git/hooks/commit-msg.sample",
+				"/D/testGit/.git/hooks/applypatch-msg.sample",
+				"/D/testGit/.git/config",
+				"/D/testGit/.git/HEAD",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/D/Program Files (x86)/PureVPN/purevpn.exe.config",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/Graphviz/test.dot",
+				"/C/Windows/winsxs/amd64_microsoft-windows-w..nfrastructure-other_31bf3856ad364e35_6.1.7600.16385_none_6079f415110c0210/hosts",
+				"/D/test.dot",
+				"/E/我的坚果云/4、程序设计相关/Code 工作区/test.md",
+				"/D/G.dot",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/test.py",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test (1).dot",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.gv",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.dot",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/GraphvizPreview.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/Rar$DIa0.377/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/README.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/LICENSE.md",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/GraphVizPreview/helpers.py",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Graphvizer.sublime-settings",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/dot.sublime-build",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/graph1.gv",
+				"/c/users/admini~1.use/appdata/local/temp/graphvizer.png",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Graphvizer.sublime-settings",
+				"/D/G.gv",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Sublime Text 3/Cache/Graphviz/DOT.sublime-syntax.rcache",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Installed Packages/GraphvizPreview.sublime-package",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Local/Temp/graphvizer.dot",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/test.md",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/QQ截图20180608084625.png",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/甲方 .txt",
+				"/C/Users/Administrator.USER-20180321EI/Desktop/沙发.txt",
+				"/C/Users/Administrator.USER-20180321EI/AppData/Roaming/Sublime Text 3/Packages/User/Localization.sublime-settings"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": true,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\shiyanlou"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 132.0
+			},
+			"output.exec":
+			{
+				"height": 252.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.graphvizer_panel":
+			{
+				"height": 132.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,707,120,83,1201",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 229.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

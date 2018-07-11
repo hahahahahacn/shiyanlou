@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CoolFormat",
+		"GitGutter",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark"
+	],
+	"remove_orphaned": false
+}
